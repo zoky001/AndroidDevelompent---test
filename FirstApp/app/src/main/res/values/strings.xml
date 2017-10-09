@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="my_first_app">My First App</string>
+    <string name="click_me">Click Me</string>
+    <string name="textview">Thhis is my first  \n App</string>
+    <string name="buttonmessage">Send</string>
+</resources>
