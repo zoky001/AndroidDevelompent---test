@@ -1,1 +1,1 @@
-prvi commit u development
+drugi commit u development
