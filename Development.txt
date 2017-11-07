@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-DRUGIIIII commit u development
-=======
->>>>>>> Sprint_1

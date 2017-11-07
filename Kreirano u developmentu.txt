@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-master
-=======
->>>>>>> Development
-=======
-development
-novoo novoo novoo
->>>>>>> 44744e034e8a120af0c7b7b032946d8220c2f2df
